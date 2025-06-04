@@ -10,8 +10,7 @@ Example using `sloped_cheese.json`:
 "argument": {
   "type": "minecraft:add",
   "argument1": {
-    // rest of the logic...
-    }
+    // rest of the logic (ignore the JSON comment)...
   },
   "argument2": "minecraft:overworld/base_3d_noise"
 }}
