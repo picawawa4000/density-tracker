@@ -1,0 +1,10 @@
+accessWidener v2 named
+
+accessible class net/minecraft/structure/WoodlandMansionGenerator$MansionParameters
+accessible class net/minecraft/structure/WoodlandMansionGenerator$FlagMatrix
+
+accessible field net/minecraft/structure/WoodlandMansionGenerator$MansionParameters baseLayout Lnet/minecraft/structure/WoodlandMansionGenerator$FlagMatrix;
+accessible field net/minecraft/structure/WoodlandMansionGenerator$MansionParameters thirdFloorLayout Lnet/minecraft/structure/WoodlandMansionGenerator$FlagMatrix;
+accessible field net/minecraft/structure/WoodlandMansionGenerator$MansionParameters roomFlagsByFloor [Lnet/minecraft/structure/WoodlandMansionGenerator$FlagMatrix;
+
+accessible field net/minecraft/util/math/random/CheckedRandom seed Ljava/util/concurrent/atomic/AtomicLong;
